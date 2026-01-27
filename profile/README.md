@@ -8,7 +8,7 @@ Bin-Go(빈고)는 러너들을 위해 쓰레기통, 화장실, 편의점 위치�
 
 - 프로젝트: 위치 기반 맞춤형 러닝 어시스턴트
 
-- 기술 스택: Android (Kotlin) | Node.js | Kakao Map API
+🛠 기술 스택: Android (Kotlin) | Node.js | Kakao Map API
 
 팀: SWU Guru2 Team 2  
 팀원 : 이영진, 안예지, 최주연, 김정아
